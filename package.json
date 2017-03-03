@@ -1,0 +1,22 @@
+{
+  "name": "test-repo",
+  "version": "1.0.1",
+  "description": "",
+  "author": "Shohel",
+  "dependencies": {
+    "grunt": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-angular-templates": "*",
+    "grunt-contrib-less": "*"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-aws-s3": "^0.14.0",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-cssmin": "^0.12.3",
+    "grunt-string-replace": "^1.2.1"
+  }
+}
